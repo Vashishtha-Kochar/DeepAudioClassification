@@ -1,9 +1,9 @@
 #Define paths for files
-spectrogramsPath = "../Data/Spectrograms/"
-slicesPath = "../Data/Slices/"
-datasetPath = "../Data/Dataset/"
-rawDataPath = "../Data/Raw/"
-tempDataPath = "../Data/Tmp/"
+spectrogramsPath = "Data/Spectrograms/"
+slicesPath = "Data/Slices/"
+datasetPath = "Data/Dataset/"
+rawDataPath = "Data/Raw/"
+tempDataPath = "Data/Tmp/"
 
 #Spectrogram resolution
 pixelPerSecond = 50
